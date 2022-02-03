@@ -11,7 +11,7 @@ The purpose of this assignment is to start learning about HTML and CSS.
 
 1. Background material to support this assignment is provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `https://github.com/DS4200-S22/ic-04-anikad123`. 
 
 1. Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
 
